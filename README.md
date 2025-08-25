@@ -9,3 +9,6 @@ Graph Neural Networks, Multi-layer networks ,Multiple Sclerosis, Brain networks,
 ## Authors
 - Jordi Casas-Roma, *Computer Vision Center*, Universitat Autònoma de Barcelona, Spain
 - Toni Lozano-Bagén, *Department of Mathematics*, Universitat Autònoma de Barcelona, Spain
+
+## Reference
+Casas-Roma, J., Lozano-Bagén, T. (2026). *Comparing Graph Neural Networks for Single and Multi-layer Brain Connectivity Analysis in Multiple Sclerosis*. In: Torra, V., Narukawa, Y., Domingo-Ferrer, J. (eds) Modeling Decisions for Artificial Intelligence. MDAI 2025. Lecture Notes in Computer Science(), vol 15957. Springer, Cham. [https://doi.org/10.1007/978-3-032-00891-6_27](https://doi.org/10.1007/978-3-032-00891-6_27)
